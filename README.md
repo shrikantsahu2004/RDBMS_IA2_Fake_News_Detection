@@ -37,8 +37,8 @@ If you want to create your own model, follow these steps:
 6. Follow the steps mentioned in Running the Project section.
 
 ### In case you need any help, refer these official documentations:
-For package installations, refer https://packaging.python.org/tutorials/installing-package/ , https://anaconda.org/anaconda/repo
-For information regarding machine learning and nlp libraries and functions, refer https://scikit-learn.org/stable/user_guide.html
+1. For package installations, refer https://packaging.python.org/tutorials/installing-package/ , https://anaconda.org/anaconda/repo
+2. For information regarding machine learning and nlp libraries and functions, refer https://scikit-learn.org/stable/user_guide.html
 
 
 
