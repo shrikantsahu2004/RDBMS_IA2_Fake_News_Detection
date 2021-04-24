@@ -33,6 +33,13 @@ If you want to create your own model, follow these steps:
 2. If you want to use a different dataset, read the dataset accordingly(in the read_csv() function, change the path).
 3. Now there is a chance that for your datasets, the model could give different accuracies, hence accordingly change the model and feature extraction technique used in the pipeline function used. 
 4. You can give a path where you want to save your pipeline.
+5. Now, in the app.py file present in the App Folder, inside the joblib.load() function, change the path to the path of the pipeline file that you just produced.
+6. Follow the steps mentioned in Running the Project section.
+
+### In case you need any help, refer these official documentations:
+For package installations, refer https://packaging.python.org/tutorials/installing-package/ , https://anaconda.org/anaconda/repo
+For information regarding machine learning and nlp libraries and functions, refer https://scikit-learn.org/stable/user_guide.html
+
 
 
 
