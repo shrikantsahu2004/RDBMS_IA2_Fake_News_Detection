@@ -4,7 +4,7 @@
 
 ### Course : RDBMS
 
-### Faculty Name: VPV Sir & PYB Ma'am
+### Faculty Name: VPV Sir and PYB Ma'am
 
 ### College Name: KJSCE
 
