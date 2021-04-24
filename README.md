@@ -22,6 +22,12 @@ You can use pip commands or conda commands to install them.
 
 # Running the Project:
 For just running the project, follow these steps:
+1. In the app.py file present in the App Folder, inside the joblib.load() function, change the path to the path of the fakenewspipeline.sav present in your device.
+2. Then, run the app.py file.
+3. This will run the project in the port mentioned. Press Ctrl+click to follow the link or copy paste it in your browser.
+4. This will render the index.html file where you can enter the news details and then click on the predict button to predict the news type.
+
+
 
 
 
