@@ -15,8 +15,8 @@ Install the required libraries like sk-learn, flask, nltk, wordcloud, numpy, pan
 You can use pip commands or conda commands to install them. 
 
 # Run and Execute the program:
-1) Firstly, go to the folder directory where you want to keep the project. 
-2) Then use the following command:
+1)Firstly, go to the folder directory where you want to keep the project. 
+2)Then use the following command:
 git clone https://github.com/shrikantsahu2004/RDBMS_IA2_Fake_News_Detection.git
 
 
